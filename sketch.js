@@ -92,3 +92,4 @@ function verificarResposta() {
   }
 }
 //REFERENCIACHATGPT
+//para resposta certa clique letra maiuscula
